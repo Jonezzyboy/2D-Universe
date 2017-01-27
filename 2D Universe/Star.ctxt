@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ objectDiameter\ theUniverse\ lifeSpan
+comment0.target=Star(int,\ int,\ int,\ Universe,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ star\r\n\ \r\n\ @param\ xPos\ \ The\ horizontal\ coordinate\ of\ this\ star\r\n\ @param\ yPos\ \ The\ vertical\ coordinate\ of\ this\ star\r\n\ @param\ objectDiameter\ \ The\ diameter\ (in\ pixels)\ of\ this\ star\r\n\ @param\ theUniverse\ \ The\ universe\ this\ star\ exists\ within\r\n\ @param\ lifeSpan\ \ The\ lifeTime\ of\ this\ star\r\n
+comment1.params=theUniverse
+comment1.target=Star(Universe)
+comment1.text=\r\n\ Create\ a\ default\ Star\ with\ only\ the\ universe\ to\ be\ chosen\r\n\ \r\n\ @param\ theUniverse\ \ The\ universe\ this\ comet\ exists\ within\r\n
+numComments=2

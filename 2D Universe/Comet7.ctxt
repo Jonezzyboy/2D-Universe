@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ objectDiameter\ objectColor\ theUniverse\ lifeSpan
+comment0.target=Comet7(int,\ int,\ int,\ int,\ int,\ java.awt.Color,\ Universe,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comet\ 7\r\n\ \r\n\ @param\ xPos\ \ The\ horizontal\ coordinate\ of\ this\ comet\r\n\ @param\ yPos\ \ The\ vertical\ coordinate\ of\ this\ comet\r\n\ @param\ xVel\ \ The\ x\ speed\ of\ this\ comet\r\n\ @param\ yVel\ \ The\ y\ speed\ of\ this\ comet\r\n\ @param\ objectDiameter\ \ The\ diameter\ (in\ pixels)\ of\ this\ comet\r\n\ @param\ objectColor\ \ The\ color\ of\ this\ comet\r\n\ @param\ theUniverse\ \ The\ universe\ this\ comet\ exists\ within\r\n\ @param\ lifeSpan\ \ The\ lifeTime\ of\ this\ comet\r\n
+comment1.params=theUniverse
+comment1.target=Comet7(Universe)
+comment1.text=\r\n\ Create\ a\ default\ Comet7\ with\ only\ the\ universe\ to\ be\ chosen\r\n\ \r\n\ @param\ theUniverse\ \ The\ universe\ this\ comet\ exists\ within\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Move\ this\ object\ according\ to\ its\ position\ and\ speed\ and\ redraw.\r\n
+numComments=3

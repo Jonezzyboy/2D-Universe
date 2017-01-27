@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=star\ velocity\ objectDiameter\ orbitRadius\ objectColor\ theUniverse\ lifeSpan
+comment0.target=Planet(Star,\ double,\ int,\ int,\ java.awt.Color,\ Universe,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ planet\r\n\ \r\n\ @param\ star\ \ The\ star\ this\ planet\ orbits\r\n\ @param\ objectDiameter\ \ The\ diameter\ (in\ pixels)\ of\ this\ planet\r\n\ @param\ orbitRadius\ \ The\ radius\ (in\ pixels)\ of\ the\ circular\ orbit\r\n\ @param\ objectColor\ \ The\ color\ of\ this\ planet\r\n\ @param\ theUniverse\ \ The\ universe\ this\ planet\ exists\ within\r\n\ @param\ lifeSpan\ \ The\ lifeTime\ of\ this\ planet\r\n
+comment1.params=star\ theUniverse
+comment1.target=Planet(Star,\ Universe)
+comment1.text=\r\n\ Create\ a\ default\ Planet\ with\ only\ the\ universe\ and\ star\ to\ be\ chosen\r\n\ \r\n\ @param\ star\ \ The\ star\ this\ planet\ orbits\r\n\ @param\ theUniverse\ \ The\ universe\ this\ comet\ exists\ within\r\n
+comment2.params=
+comment2.target=Space_Object\ getOrbit()
+comment2.text=\r\n\ Returns\ which\ star\ the\ planet\ is\ orbiting\ around\r\n\ \r\n\ @return\ star\ \ The\ star\ the\ planet\ orbits\ around\r\n
+comment3.params=
+comment3.target=int\ getOrbitRadius()
+comment3.text=\r\n\ Returns\ the\ orbit\ radius\r\n\ \r\n\ @return\ orbitRadius\ \ The\ radius\ of\ the\ plaents\ orbit\r\n
+comment4.params=radius
+comment4.target=void\ setOrbitRadius(int)
+comment4.text=\r\n\ Sets\ the\ orbit\ radius\r\n\ \r\n\ @param\ radius\ \ The\ radius\ the\ orbitRadius\ will\ change\ to\r\n
+comment5.params=radius
+comment5.target=void\ incrOrbitRadius(int)
+comment5.text=\r\n\ Increases\ the\ orbit\ radius\r\n\ \r\n\ @param\ radius\ \ The\ radius\ the\ orbitRadius\ will\ increase\ by\r\n
+comment6.params=
+comment6.target=void\ move()
+comment6.text=\r\n\ Move\ this\ object\ according\ to\ its\ position\ and\ speed\ and\ redraw.\r\n
+numComments=7

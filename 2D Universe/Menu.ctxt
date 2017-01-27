@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Simplemenu\r\n
+comment1.params=
+comment1.target=void\ displayMenu()
+comment1.text=\r\n\ Displays\ the\ standard\ text\ menu\ options\r\n\ \r\n
+comment2.params=
+comment2.target=int\ select()
+comment2.text=\r\n\ A\ method\ that\ recieves\ a\ user\ input\r\n\ \r\n\ @return\ selection\ The\ choice\ from\ the\ user\r\n
+numComments=3
